@@ -1,6 +1,6 @@
 ### Google-2020-mg
 
--   1\. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
+*   1\. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)
 
 -   2\. [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)
 
